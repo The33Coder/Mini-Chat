@@ -25,7 +25,6 @@
 			<?php include_once 'mysql_functions.php';
 				showMessage();
 			?>
-		<p>Fin !</p>
 	</body>
 
 </html>
